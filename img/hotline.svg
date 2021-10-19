@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="27" viewBox="0 0 49 27">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 11px;
+        fill: #8fa538;
+        text-anchor: middle;
+        font-family: CocoSharpLTrial;
+      }
+    </style>
+  </defs>
+  <text id="Горячая_линия_" data-name="Горячая  линия " class="cls-1" x="26.001" y="8.001"><tspan x="26.001">Горячая </tspan><tspan x="26.001" dy="13.2">линия</tspan></text>
+</svg>

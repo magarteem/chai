@@ -1,0 +1,161 @@
+@media (max-width: 991px) {
+  /*          main           */
+  .main {
+    height: 700px;
+  }
+  ._imgpeople {
+    right: 0;
+    top: 0px;
+    height: 600px;
+  }
+  .mainBtn h2 {
+    padding-top: 5px;
+  }
+  .main_bcg {
+    top: 600px;
+  }
+  .tel_head {
+    display: none;
+  }
+  .tel_head_1100px {
+    display: flex;
+  }
+  .mainBtn {
+    margin-top: 30px;
+  }
+  .form label {
+    margin-bottom: 5px;
+  }
+  /* .mainBtn_button button {
+    margin-bottom: 5px;
+  } */
+  ._sec1ListMain4 {
+    left: 200px;
+  }
+  /*          section_2           */
+
+  ._section_1List3 {
+    left: 40px;
+  }
+  ._withImgPos {
+    height: 35%;
+  }
+  /*          section_3           */
+  ._sec3PosImg1 {
+    top: -57px;
+  }
+  ._sec3PosImg4 {
+    top: 518px;
+  }
+  /*          footer           */
+  .foo_up h1 {
+    margin-top: 110px;
+  }
+}
+
+@media (max-width: 900px) {
+  /*          main           */
+  .mainBtn {
+    margin-top: 30px;
+    overflow: hidden;
+    height: 700px;
+  }
+  .main_head {
+    justify-content: space-around;
+  }
+  .form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+  }
+  ._rig_btn .form {
+    flex-direction: row;
+    margin-bottom: 0;
+  }
+  ._rig_btn .form label {
+    margin-bottom: 0;
+  }
+  ._imgpeople {
+    top: 20px;
+    right: 0;
+  }
+  ._imgList {
+    top: -23px;
+  }
+  ._sec1ListMain4 {
+    display: none;
+  }
+  .mainBtn h1 {
+    font-size: 85px;
+  }
+  ._section_1List {
+    right: -70px;
+  }
+  /*          section_2           */
+  ._section_1List3 {
+    left: 110px;
+  }
+  ._carImg {
+    left: 451px;
+    top: 496px;
+  }
+  .cardsItem {
+    width: 90%;
+    margin: 0 5px;
+  }
+  /*          section_3           */
+  .pd_right,
+  .pd_left {
+    padding-top: 10px;
+  }
+  .nz991px {
+    position: relative;
+    margin-top: 100px;
+  }
+  .tireVertDiv {
+    transform: translateY(19px) translateX(-39px);
+    position: absolute;
+  }
+  ._sec3PosImg4 {
+    top: 606px;
+    right: 120px;
+  }
+  ._sec3PosImg3 {
+    top: 71px;
+  }
+
+  /*          footer           */
+  .foo_doun_up {
+    align-items: center;
+    flex-direction: column;
+  }
+  ._rig_btn {
+    margin: 25px 12px 0;
+  }
+  .btn_oll_posList img {
+    right: -62px;
+  }
+  .foo_doun_up_img span {
+    margin-right: 30px;
+  }
+  /*          modal           */
+  .modalGradient {
+    flex-direction: row;
+  }
+  .closeImg1 {
+    top: 160px;
+    right: 14px;
+  }
+  .closeImg2 {
+    left: 53px;
+    top: 290px;
+  }
+  .closeImg3 {
+    left: 63px;
+    top: -87px;
+  }
+  .collMe {
+    width: 683px;
+    height: 42%;
+  }
+}

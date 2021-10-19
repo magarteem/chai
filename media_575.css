@@ -1,0 +1,121 @@
+@media (max-width: 575px) {
+    ._imgpeople {
+        height: 529px;
+        right: -77px;
+        top: 50px;
+    }
+    .mainBtn h1 {
+        font-size: 44px;
+        letter-spacing: -1.15px;
+    }
+    .mainBtn h2 {
+        font-size: 22px;
+        letter-spacing: -0.55px;
+    }
+    ._sec1ListMain4 {
+        display: block;
+        left: -150px;
+        top: 412px;
+    }
+    ._section_1List3 {
+        left: 10px;
+        top: 160px;
+    }
+    /*          section_2           */
+    .cardsItem {
+        width: 90%;
+    }
+    ._section_1bcgText {
+        display: block;
+    }
+    .cardsItem {
+        width: 85%;
+    }
+    ._carImg {
+        left: 385px;
+    }
+    ._withImgPos {
+        height: 19%;
+    }
+    /*          section_2           */
+    ._sec3PosImg3 {
+        top: 315px;
+        right: 389px;
+    }
+    ._sec3PosImg4 {
+        top: 736px;
+    }
+    /*          footer           */
+    footer {
+        background-color: #cbd4a7;
+        background-position: center -70px;
+        background-size: inherit;
+    }
+    .foo_doun_up {
+        align-items: flex-start;
+    }
+    .foo_doun_up_img span {
+        margin-right: 20px;
+    }
+    ._rig_btn {
+        display: flex;
+        flex-direction: column;
+    }
+    ._rig_btn .form {
+        flex-direction: column;
+    }
+    .foo_doun_doun_NZ375 {
+        display: block;
+        margin: 30px 0;
+    }
+    .foo_doun_doun {
+        display: none;
+    }
+    .foo_doun_doun_NZ375 span:nth-child(1) {
+        display: block;
+        width: 54%;
+        line-height: 22px;
+    }
+    ._doun_doun_Span {
+        width: 64%;
+    }
+    ._doun_doun_Span span {
+        padding-left: 0px;
+        line-height: 22px;
+    }
+    ._rig_btn {
+        /* margin: 25px 12px 52px; */
+        padding-bottom: 52px;
+    }
+    .btn_oll_posList {
+        margin-top: 8px;
+    }
+    /*          modal           */
+    ._collUp h1 {
+        font-size: 30px;
+    }
+    .closeImg2 {
+        left: 50px;
+        top: 491px;
+    }
+    /*          perferct Send           */
+    ._pSendUP {
+        flex-direction: column;
+    }
+    ._pSendUP img {
+        margin-bottom: 50px;
+        height: 150px;
+    }
+    ._pSendUPText {
+        margin-left: 0;
+    }
+    ._pSendUPText h1 {
+        font-size: 35px;
+    }
+    ._pSendUPText span {
+        font-size: 21px;
+    }
+    .preloader {
+        height: 250px;
+    }
+}

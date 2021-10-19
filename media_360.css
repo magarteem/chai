@@ -1,0 +1,93 @@
+@media (max-width: 360px) {
+  .main {
+    height: 900px;
+  }
+  .nav_head a {
+    padding-right: 8px;
+    font-size: 11px;
+  }
+  .img_head {
+    margin-top: 28px;
+  }
+  ._imgpeople {
+    position: static;
+    /* height: 70%; */
+    width: 100%;
+    /* height: auto; */
+    height: auto;
+    /* height: calc(var(--sizePhoto360) - 100%); */
+  }
+  .mainBtn {
+    text-align: center;
+    margin-top: 45px;
+  }
+  .tel_head_1100px {
+    justify-content: center;
+  }
+  .mainBtn h1 {
+    letter-spacing: 1px;
+    font-size: 43px;
+  }
+  .mainBtn_button {
+    display: block;
+  }
+  .form {
+    align-items: center;
+  }
+  .mainBtn_button button {
+    margin-bottom: 5px;
+    width: 90%;
+  }
+  .mainBtn_button label {
+    margin-bottom: 5px;
+
+    width: 90%;
+  }
+  .idBtn {
+    margin-right: 0;
+  }
+
+  .main_bcg {
+    top: 750px;
+  }
+  ._carImg {
+    left: 258px;
+  }
+
+  /*          section_2           */
+  .with963px_doun {
+    height: 650px;
+  }
+  /*          modal           */
+  .modalBtnPosLabel,
+  .modalBtnPos {
+    width: 100%;
+  }
+}
+
+/*  */
+/*  */
+/*  */
+
+@media (max-width: 320px) {
+  /*          section_1           */
+  ._section_1List {
+    right: 208px;
+    top: 590px;
+  }
+  ._carImg {
+    left: 220px;
+  }
+  /*          section_2           */
+  ._withImgPos {
+    height: 16%;
+  }
+  ._left_btn img {
+    left: 150px;
+    top: -65px;
+  }
+  /*          section_3           */
+  ._sec3PosImg3 {
+    right: 225px;
+  }
+}

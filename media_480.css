@@ -1,0 +1,279 @@
+@media (max-width: 480px) {
+    .container {
+        max-width: 480px;
+        /* padding: 0 5px; */
+    }
+    .foo_up h1 {
+        line-height: 36px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .media767_padd0 {
+        padding: 0;
+    }
+    .nav_head {
+        padding-top: 13px;
+    }
+    .mainBtn {
+        margin-top: 25px;
+    }
+    .img_head {
+        margin-top: 12px;
+    }
+    ._imgpeople {
+        right: -77px;
+        top: 35px;
+    }
+    .btn_oll {
+        width: 234px;
+        height: 52px;
+    }
+    .btn_oll span {
+        font-size: 14.5px;
+        line-height: 27px;
+    }
+    .mainBtn_button {
+        margin-top: 29px;
+    }
+    .mainBtn_button label {
+        margin-bottom: 10px;
+    }
+    .mainBtn_button button {
+        margin-bottom: 10px;
+    }
+    /* ._imgList {
+    height: 78px;
+    top: -8px;
+    right: -35px;
+  } */
+    .tel_hSpan {
+        height: 31px;
+        width: 31px;
+        margin-right: 22px;
+    }
+    .tel_head_1100px {
+        font-size: 21.5px;
+        line-height: 26.5px;
+        letter-spacing: 0.54px;
+        padding-top: 5px;
+    }
+    /* .section_1, */
+    .cardsItem h1 {
+        width: 76%;
+    }
+    .section_1 {
+        margin-top: 0;
+    }
+    ._sec_1 {
+        padding-top: 15px;
+    }
+    .main_bcg {
+        top: 584px;
+    }
+    .cardsItem {
+        margin: 0 5px 50px 0;
+    }
+    ._sec1ListMain4 {
+        left: -116px;
+        top: 516px;
+    }
+    /* .section_2, */
+    ._section_1List {
+        top: 559px;
+        right: 338px;
+    }
+    ._section_1List3 {
+        left: -31px;
+        top: 232px;
+    }
+    ._carImg {
+        left: 350px;
+        top: 600px;
+    }
+    /*          section_2           */
+    ._left_btn img {
+        left: 180px;
+    }
+    ._left p {
+        font-size: 16px;
+    }
+    .fz30 {
+        font-size: 30px;
+    }
+    .fz34 {
+        font-size: 34px;
+    }
+    .with963px_doun {
+        height: 713px;
+    }
+    /*          section_3           */
+    ._sect_3 {
+        padding: 0 5px;
+    }
+    .spanPadding {
+        padding-bottom: 0;
+    }
+    ._sec_cards {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    ._cardsText {
+        width: 77%;
+    }
+    .wrap div:nth-child(3)._sec_cards div:nth-child(1) {
+        order: 0;
+    }
+    .wrap div:nth-child(7)._sec_cards div:nth-child(1),
+    .wrap div:nth-child(5)._sec_cards div:nth-child(1) {
+        order: 2;
+    }
+    .wrap div:nth-child(1)._sec_cards div:nth-child(2),
+    .wrap div:nth-child(7)._sec_cards div:nth-child(1) {
+        align-self: flex-end;
+    }
+    .wrap div:nth-child(3)._sec_cards div:nth-child(1),
+    .wrap div:nth-child(5)._sec_cards div:nth-child(2) {
+        align-self: flex-end;
+    }
+    ._sec3PosImg1 {
+        top: 485px;
+        left: 55px;
+    }
+    ._sec3PosImg2 {
+        right: 68px;
+        top: 845px;
+    }
+    ._sec3PosImg3 {
+        top: 1190px;
+        right: 315px;
+    }
+    ._sec3PosImg4 {
+        top: 168px;
+        right: 95px;
+    }
+    .pd_right {
+        padding-right: 0;
+    }
+    .pd_left {
+        padding-left: 0;
+    }
+    /*          modal           */
+    ._collUp {
+        text-align: center;
+    }
+    ._collUp h1 {
+        margin: 0 10px;
+    }
+    /*          perferct Send           */
+    ._pSendUPText {
+        padding: 0 5px;
+    }
+    ._pSendUPText h1 {
+        font-size: 30px;
+    }
+    ._pSendUPText span {
+        font-size: 19px;
+    }
+    ._pSendUP img {
+        margin-bottom: 10px;
+        height: 150px;
+    }
+}
+
+
+/*  */
+
+
+/*  */
+
+
+/*  */
+
+@media (max-width: 450px) {
+    ._imgpeople {
+        right: -116px;
+    }
+    ._section_1List {
+        top: 573px;
+        right: 292px;
+    }
+    ._carImg {
+        left: 299px;
+    }
+    /*          footer           */
+    .foo_doun_doun_NZ375 span:nth-child(1) {
+        width: 90%;
+    }
+    .foo_doun_up_img span {
+        margin-right: 5px;
+    }
+}
+
+
+/*  */
+
+
+/*  */
+
+
+/*  */
+
+@media (max-width: 410px) {
+    .nav_head a {
+        padding-right: 10px;
+        font-size: 13px;
+    }
+    ._imgpeople {
+        right: -172px;
+    }
+    ._carImg {
+        left: 265px;
+    }
+    ._section_1bcgText {
+        display: block;
+        width: 100%;
+    }
+    ._section_1List3 {
+        left: 4px;
+    }
+    ._section_1List {
+        right: 240px;
+    }
+    ._sec1ListMain4 {
+        left: -70px;
+    }
+    /*          section_2           */
+    .with963px_doun {
+        height: 690px;
+    }
+    /*          section_3           */
+    ._sec3PosImg1 {
+        top: 493px;
+        left: 35px;
+    }
+    ._sec3PosImg3 {
+        right: 270px;
+    }
+    ._sec3PosImg4 {
+        right: 40px;
+    }
+    /*          section_3           */
+    .foo_doun_up_img span {
+        width: 60px;
+        height: 60px;
+    }
+    /*          modal           */
+    .closeImg1 {
+        top: 387px;
+        right: 0;
+    }
+    .closeImg2 {
+        left: 35px;
+        top: 350px;
+    }
+    .closeImg3 {
+        height: 165px;
+        left: 28px;
+        top: 35px;
+    }
+}
